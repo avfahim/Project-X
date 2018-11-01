@@ -1,0 +1,42 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+body {
+    font-family: 'vtks_revoltregular';
+    font-size: 18px;
+    color: rgb(19, 15, 15);
+    line-height: 25px
+}
+
+.content {
+    background: #f0f0f0;
+    margin: 0 auto;
+    width: 800px;
+    
+}
+
+.header {
+    text-align: center;
+    background: aliceblue;
+    padding: 10px;
+    
+
+}
+
+.jscontent {
+    margin: 10px;
+    background: #fff;
+    padding: 5px;
+    height: 500px;
+}
+
+.footer {
+    text-align: center;
+    padding: 5px;
+    background: #ddd;
+
+}
